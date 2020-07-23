@@ -1,5 +1,5 @@
 # Đường dẫn tham khảo tài liệu môn học Lập trình Android: <a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a>
-# Các bài tập Android Studio:
+# Các bài tập của môn học Lập trình Android Studio:
 <ul>
 <li><a href="https://github.com/nguyennhuthinh14/MyApplication">Làm quen môi trường Android Studio</a></li>
 <li><a href="https://github.com/nguyennhuthinh14/DaoquanhAndroid">Dạo quanh ứng dụng Android trong Android Studio 3.X</a></li>
