@@ -1,3 +1,4 @@
+# Đường dẫn tham khảo tài liệu môn học Lập trình Android: <a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a>
 # Các bài tập Android Studio:
 <ul>
 <li><a href="https://github.com/nguyennhuthinh14/MyApplication">Làm quen môi trường Android Studio</a></li>
@@ -17,7 +18,7 @@
 <li><a href="https://github.com/nguyennhuthinh14/csdl">Lập trình cơ sở dữ liệu Android với SQLite</a></li>
 <li><a href="https://github.com/nguyennhuthinh14/calculator">Lập trình ứng dụng Máy tính bỏ túi</a></li>
 </ul>
-# Đường dẫn tham khảo tài liệu môn học Lập trình Android: <a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a>
+
 
 
   
