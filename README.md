@@ -16,7 +16,7 @@
 </ul>
 <li><a href="https://github.com/nguyennhuthinh14/csdl">Lập trình cơ sở dữ liệu Android với SQLite</a></li>
 <li><a href="https://github.com/nguyennhuthinh14/calculator">Lập trình ứng dụng Máy tính bỏ túi</a></li>
-<b>Link tham khảo môn học Lập trình Android: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a>
+  # Link tham khảo môn học Lập trình Android: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây
   
   
 © 2020 Copyright by Nguyen Nhu Thinh
